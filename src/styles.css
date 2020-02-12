@@ -1,5 +1,9 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
+body{
+  padding-bottom: 50px;
+}
+
 .main-container{
     margin-top: 20px;
 }
